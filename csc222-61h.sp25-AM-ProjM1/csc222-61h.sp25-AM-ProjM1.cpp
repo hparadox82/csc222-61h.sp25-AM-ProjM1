@@ -1,5 +1,5 @@
-// csc222-61h.sp25-AM-ProjM1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//Project M1 / CSC222 61H SP.25
+//Austin M.
 
 #include <iostream>
 #include <iomanip>
